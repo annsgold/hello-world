@@ -1,2 +1,3 @@
 # hello-world
-For sharing
+For sharing:
+Attempting to make Git relevant to my current needs.
